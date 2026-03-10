@@ -1,34 +1,36 @@
 # 💫 About Me
 
 ## 👨‍💻 Who Am I
-Hi, I'm **Mostafa Rasheedy**, a **Full-Stack .NET Developer** passionate about building scalable web applications and learning modern technologies.
+Hi, I'm **Mostafa Rasheedy**, a **Full-Stack .NET Developer, Instructor, and Freelance Web Developer** passionate about building scalable web applications and sharing knowledge with others.
 
+🎓 **Full-Stack .NET Instructor at ITI (Information Technology Institute)**  
+💻 **Freelance Web Developer** building modern web applications  
+🏅 3rd Place Winner at a **University-Wide Hackathon**
 🎓 Computer Science Graduate from **Assiut University**  
-🏅 3rd Place Winner at a **University-Wide Hackathon**  
-🎓 Currently part of the **ITI .NET & Angular Scholarship**
 
-I enjoy turning ideas into real applications and continuously improving my skills in **software architecture, clean code, and scalable systems**.
+I enjoy building real-world systems, mentoring developers, and continuously improving my skills in **software architecture, clean code, and scalable systems**.
 
 ---
 
 ## 🚀 What I'm Doing Now
 
-🔭 Building **real-world full-stack applications**  
-🌱 Learning **advanced .NET architecture & system design**  
-👯 Open to **collaborating on open-source projects**  
-💬 Ask me about **.NET, Angular, React, APIs, or software architecture**  
+👨‍🏫 Teaching **Full-Stack .NET Development at ITI**  
+💻 Working as a **Freelance Web Developer** on real-world projects  
+🔭 Building **scalable full-stack applications**  
+🌱 Learning **advanced software architecture & system design**  
+👯 Open to **collaborating on interesting development projects**
 
-⚡ Fun fact: *I believe consistency beats talent when learning programming.*
+⚡ Fun fact: *I genuinely enjoy both coding and teaching programming.*
 
 ---
 
 ## 🎯 Current Focus
 
 - Building **Full-Stack Applications with .NET & Angular**
+- Teaching **modern web development concepts**
 - Applying **Clean Architecture & Onion Architecture**
 - Developing **RESTful APIs with ASP.NET Core**
-- Improving **problem solving & system design**
-- Writing **clean, scalable and maintainable code**
+- Writing **clean, maintainable, and scalable code**
 
 ---
 
